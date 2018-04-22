@@ -14,6 +14,7 @@ namespace sampleApp
     {
         public Startup(IConfiguration configuration)
         {
+            // just sample comment to check GitHub
             Configuration = configuration;
         }
 
